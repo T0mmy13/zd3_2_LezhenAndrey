@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_backmain.png.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/backmain.png"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/layout_activity_films.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/layout/activity_films.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_logo.png.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_icon.png.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/layout_film_item.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/layout/film_item.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_back.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/back.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/layout_fragment_film_detail.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/layout/fragment_film_detail.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/layout_activity_auth.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_placeholder_image.png.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/placeholder_image.png"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/menu_main_menu.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_button_background_auth.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/button_background_auth.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_splash.png.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/splash.png"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/drawable_button_background.xml.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.mytvbelozerovklim.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mytvbelozerovklim.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
